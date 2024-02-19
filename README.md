@@ -5,7 +5,6 @@ I'm a passionate Software Developer with a knack for building scalable web appli
 
 Currently, I'm focused on leveraging my internship experiences and project-based learning to solve real-world problems. I'm all about creating efficient, scalable solutions and I'm always on the lookout for new challenges that push the boundaries of my knowledge and skills.
 
-[![My Tech Bucket](https://github-readme-tech-stack.vercel.app/api/cards?title=My+Tech+Bucket&lineCount=1)
 
 
 
